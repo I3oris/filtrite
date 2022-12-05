@@ -39,8 +39,8 @@ https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
 
 # Youtube
 https://ewpratten.github.io/youtube_ad_blocklist/adblockplus.txt
-https://ewpratten.github.io/youtube_ad_blocklist/unbound.txt
-https://ewpratten.github.io/youtube_ad_blocklist/dnsmasq.txt
+# https://ewpratten.github.io/youtube_ad_blocklist/unbound.txt
+# https://ewpratten.github.io/youtube_ad_blocklist/dnsmasq.txt
 https://ewpratten.github.io/youtube_ad_blocklist/domains.txt
 https://ewpratten.github.io/youtube_ad_blocklist/hosts.ipv6.txt
 https://ewpratten.github.io/youtube_ad_blocklist/hosts.ipv4.txt
