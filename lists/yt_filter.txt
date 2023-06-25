@@ -10,12 +10,12 @@ https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
 
 # Annoying Elements, Cookie promts etc.
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+# https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+# https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
 # The next annoyance filter is a bit aggressive - use the "bromite-extended-soft" list to have a less strict variant of this list
-https://secure.fanboy.co.nz/fanboy-annoyance.txt
-https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
+# https://secure.fanboy.co.nz/fanboy-annoyance.txt
+# https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+# https://filters.adtidy.org/extension/ublock/filters/14.txt
 
 # CNAME record trackers
 # https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
