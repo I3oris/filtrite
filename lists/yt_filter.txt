@@ -32,7 +32,7 @@ https://fanboy.co.nz/fanboy-antifonts.txt
 https://easylist.to/easylist/fanboy-social.txt
 
 # Annoyances on Twitter
-https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
+# https://raw.githubusercontent.com/robonxt/CleanYourTwitter/master/CleanYourTwitter.txt
 
 # My own block list
 https://raw.githubusercontent.com/xarantolus/nervig/main/annoyances.txt
